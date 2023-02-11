@@ -6,7 +6,7 @@ warnings.filterwarnings("ignore")
 import argparse
 import numpy as np
 import shutil
-import PIL
+import Image
 import time
 from imageio import imread, imsave
 
